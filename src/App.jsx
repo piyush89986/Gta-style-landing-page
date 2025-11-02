@@ -185,7 +185,7 @@ function App() {
             <div className="cntnr flex w-full h-[80%]">
               <div className="limg w-1/2 mt-[20%] relative h-full">
                 <img
-                  className="absolute scale-[1] top-[50%] left-1/2 -translate-x-1/2 -translate-y-1/2"
+                  className="absolute scale-[1] top-[10%] left-1/2 -translate-x-1/2 -translate-y-1/2"
                   src="/logo.png"
                   alt="img"
                 />
